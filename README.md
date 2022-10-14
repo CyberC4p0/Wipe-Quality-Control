@@ -1,8 +1,7 @@
 # Wipe-Quality-Control
 
-#### Project Manager: Jose Membreño
-#### Developed By: Jose Membreño
+This tool works best with the bootable live version of Kali since it remains on an external disk.
 
-Tool that assists in recording proof of wipe
+For instructions on how to set up live USB/SSD: https://www.kali.org/docs/usb/live-usb-install-with-windows/
 
-Amount of disks x 7 pictures per disk = total amount of pictures
+For instructions on the persistence to place the script: https://www.kali.org/docs/usb/usb-persistence/

@@ -1,7 +1,5 @@
 # Wipe-Quality-Control
 
-This tool works best with the bootable live version of Kali since it remains on an external disk.
+The Wipe Quality Control (AKA: WipeQC) tool assists in checking & screenshotting the 7 different locations for hex values of a disk. Depending on your requirements, having all zeros or a signature at the bottom of the hex values of the disk is best.
 
-For instructions on how to set up live USB/SSD: https://www.kali.org/docs/usb/live-usb-install-with-windows/
-
-For instructions on how to set up the persistence to place the script in: https://www.kali.org/docs/usb/usb-persistence/
+This tool has been used right after using [WipeDrive](https://www.wipedrive.com/).
